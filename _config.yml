@@ -1,17 +1,17 @@
 # Site settings
-title: Binpedia | 胡说
-SEOTitle: Binpedia | 胡说
+title: SiSee | 思思看世界
+SEOTitle: SiSee | 思思看世界
 header-img: img/post-bg-desk.jpg
 email: admin@binpedia.com
 description: ""
-keyword: "胡说, Binpedia, Investment, Cryptocurrency, Credit Card, Gardening, Tech, Travel, Running, Food"
-url: "http://binpedia.com"          # your host, for absolute URL
+keyword: "Sisee, Binpedia, Investment, Cryptocurrency, Credit Card, Gardening, Tech, Travel, Running, Food"
+url: "http://sisee.binpedia.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/binology/binology.github.io" # you code repository
+github_repo: "https://github.com/binpedia/binpedia.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一个不务正业的化学PhD"
+sidebar-about-description: " "
 sidebar-avatar: /img/32036D058.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,9 +20,9 @@ sidebar-avatar: /img/32036D058.jpg      # use absolute URL, seeing it's used in 
 rss: true
 email: "admin@binpedia.com"
 weibo_username:     hbkang狗年旺旺旺
-github_username:    binology
-facebook_username:  bin.hu.1029
-twitter_username:   kang4600
+#github_username:    binpedia
+#facebook_username:  bin.hu.1029
+#twitter_username:   kang4600
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
