@@ -88,13 +88,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    },{
-        title: "Jiadi",
-        href: "http://jdhomer.github.io"
+        title: "Binpedia | 胡说",
+        href: "https://binpedia.com"
     }
 ]
