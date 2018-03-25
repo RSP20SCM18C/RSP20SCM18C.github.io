@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: sisee@binpedia.com
 description: ""
 keyword: "Sisee, Binpedia, Makeup, beauty"
-url: "http://sisee.binpedia.com"          # your host, for absolute URL
+url: "https://sisee.binpedia.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/binpedia/binpedia.github.io" # you code repository
 
