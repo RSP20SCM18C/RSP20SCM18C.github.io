@@ -1,17 +1,17 @@
 # Site settings
-title: SiSee | 去草
-SEOTitle: SiSee | 去草
+title: 瑞阳小站
+SEOTitle: 瑞阳小站
 header-img: img/post-bg-desk.jpg
-email: sisee@binpedia.com
+email: rchen9222@gmail.com
 description: ""
-keyword: "Sisee, Binpedia, Makeup, beauty"
+keyword: "Personal blog"
 url: "https://sisee.binpedia.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/binpedia/binpedia.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "风一样的女子，在风一样的芝加哥"
+sidebar-about-description: "一直想做个自律的人"
 sidebar-avatar: /img/aboutme.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
